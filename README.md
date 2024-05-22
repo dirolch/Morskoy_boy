@@ -9,4 +9,4 @@ Visual studio 2022, unity
 # Возможности проекта
 Сражение с исскуственным интеллектом в классической игре Морской бой.
 # Ссылка на билд
-[https://cloud.mail.ru/public/nn23/ngu8eGVB9](https://cloud.mail.ru/public/Tka7/uetNaTdis)
+(https://cloud.mail.ru/public/Tka7/uetNaTdis)
